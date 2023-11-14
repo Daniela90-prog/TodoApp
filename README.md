@@ -1,2 +1,2 @@
 # TodoApp
-Aplicacion TodoApp a trevez de react.
+Aplicacion TodoApp a travez de react.
